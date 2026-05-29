@@ -1,6 +1,7 @@
 *.vscode
 .idea
 .DS_Store
+.superpowers/
 
 # Learn directory
 learn/**/node_modules/
@@ -17,4 +18,3 @@ learn/**/build/
 learn/**/dist/
 learn/**/.cache/
 learn/**/coverage/
-
