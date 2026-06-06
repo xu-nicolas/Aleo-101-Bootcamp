@@ -66,9 +66,7 @@ Quest Board 已成功验证该交易，`Private Transaction Proof` 状态变为 
 
 ## 截图
 
-Shield Wallet 交易截图和 Quest Board 验证完成截图请随 PR 一并提交。
+已随 PR 提交链上交互截图和 Quest Board 验证完成截图：
 
-建议截图文件名：
-
-- `learn/xu-nicolas/task4-shield-transaction.png`
+- `learn/xu-nicolas/task4-chain-interaction.png`
 - `learn/xu-nicolas/task4-quest-board-completed.png`
